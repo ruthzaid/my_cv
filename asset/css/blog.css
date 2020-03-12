@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: mistyrose;
+    margin: 10px;
+    padding: 7px;
+}
+header{
+    background-color: whitesmoke;
+    position: fixed;
+    top: 0px;
+    left: 35px;
+    width: 100%;
+}
+section{
+    border-bottom: solid 2px white;
+    padding: 40px 15px;
+    margin: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article{
+    font-size: 15px;
+    line-height: 25px;
+    text-align: justify;
+}
+.title{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.date{
+    font-size: 15px;
+    font-style: italic;
+}
+
+nav > ul > li{
+    display: inline-block;
+    padding: 10px 5px;
+    font-size: 20px;
+}
+
+nav > ul > li > a{
+    text-decoration: none;
+}
+
+nav > ul > li:hover{
+    background-color: mistyrose;
+}

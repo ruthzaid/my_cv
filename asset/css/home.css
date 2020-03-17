@@ -27,3 +27,20 @@ nav > ul > li > a{
 nav > ul > li:hover{
     background-color: mistyrose;
 }
+
+.headshot{
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.geninfo{
+    position: absolute;
+    border-bottom: solid 0.5px white;
+    padding-left: 340px;
+    padding-top: 40px;
+}
+.skills{
+    position: absolute;
+    padding-left: 340px;
+    padding-top: 360px;
+}

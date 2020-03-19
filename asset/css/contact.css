@@ -5,7 +5,7 @@
 body{
     background-color: mistyrose;
     margin: 10px;
-    padding: 7px;
+    padding-left: 21px;
 }
 header{
     background-color: whitesmoke;
@@ -26,4 +26,11 @@ nav > ul > li > a{
 
 nav > ul > li:hover{
     background-color: mistyrose;
+}
+
+.mapouter{
+    margin-top: 60px;
+    padding-top: 0px;
+    padding-left: 150px;
+    border-left: solid 2px white;
 }

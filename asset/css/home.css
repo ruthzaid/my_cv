@@ -35,12 +35,12 @@ nav > ul > li:hover{
 }
 .geninfo{
     position: absolute;
-    border-bottom: solid 0.5px white;
-    padding-left: 340px;
-    padding-top: 40px;
+    border-bottom: solid 2px white;
+    margin-left: 340px;
+    margin-top: 40px;
 }
 .skills{
     position: absolute;
-    padding-left: 340px;
-    padding-top: 360px;
+    margin-left: 340px;
+    margin-top: 360px;
 }

@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+}
+table{
+    margin: auto;
+    margin-top: 80px;
+    border-collapse: collapse;
+    border-style: hidden;
+}
+table td{
+    border: 3px solid black
+}
